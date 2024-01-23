@@ -1,4 +1,4 @@
-import '../styles/Cuadrado.css'
+import '../styles/Square.css'
 
 function Square({ value, onSquareClick, isWinnerSquare, isX, winner }) {
   return (

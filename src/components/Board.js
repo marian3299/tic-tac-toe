@@ -1,5 +1,5 @@
 import Square from "./Square";
-import '../styles/Tablero.css';
+import '../styles/Board.css';
 import { useState} from "react";
 
 function Board() {
